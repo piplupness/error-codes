@@ -2,11 +2,11 @@
 	"002": {
 		"0102": {
 			"name": "Unknown",
-			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com",
+			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Device is banned",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "Unknown solution",
 			"support_link": "https://preten.do/002-0102"
 		}
 	}
