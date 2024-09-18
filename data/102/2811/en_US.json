@@ -2,7 +2,7 @@
 	"102": {
 		"2811": {
 			"name": "BANNED_DEVICE",
-			"message": "",
+			"message": "Online services cannot be used.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
