@@ -4,9 +4,9 @@
 			"name": "SERVICE_CLOSED",
 			"message": "This online service is no longer\navailable.\n\nSorry for the inconvenience.",
 			"short_description": "The server you requested is closed and no longer maintained",
-			"long_description": "Unknown cause.",
+			"long_description": "This service has been discontinued and no longer able to be used.",
 			"short_solution": "Self host the server or use another hosted instance",
-			"long_solution": "Unknown solution.",
+			"long_solution": "Make sure you are loaded to Pretendo Network via SSSL or Inkay and you are logged on a Pretendo Network ID. If the server is not or no longer available on Pretendo Network, self host the instance or use another online service.",
 			"support_link": "https://preten.do/102-2882"
 		}
 	}

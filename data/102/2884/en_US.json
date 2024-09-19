@@ -3,10 +3,10 @@
 		"2884": {
 			"name": "NOT_PROVIDED_COUNTRY",
 			"message": "Online services are not available\nin your country of residence.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_description": "Unavailable in your country or residence.",
+			"long_description": "The server you are trying to connect is not available in your country or residence.",
+			"short_solution": "Go in system settings and change your region to a supported location.",
+			"long_solution": "Go in system settings and change your region to a supported location.",
 			"support_link": "https://preten.do/102-2884"
 		}
 	}
