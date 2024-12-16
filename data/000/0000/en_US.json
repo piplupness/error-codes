@@ -5,8 +5,8 @@
 			"message": "An error has occurred.\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_solution": "Miiverse: Reinstall Nimbus and make sure rverse is no longer installed on your system.",
+			"long_solution": "This assumes you have rverse, if you don't remember to have installed it, don't install it. Follow these steps:\n\n1. Delete rev.pem in sd:/3ds directory\n2. Reinstall Nimbus, either from Github or Universal Updater\n3. Launch Miiverse, if you no longer get this error code your issue is fixed!",
 			"support_link": "https://preten.do/000-0000"
 		}
 	}

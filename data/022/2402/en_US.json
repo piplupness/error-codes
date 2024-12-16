@@ -3,10 +3,10 @@
 		"2402": {
 			"name": "BAD_FORMAT_REQUEST",
 			"message": "",
-			"short_description": "The HTTP request contained invalid data",
-			"long_description": "Unknown cause.",
-			"short_solution": "Try again later or try a different input",
-			"long_solution": "Unknown solution.",
+			"short_description": "The HTTP request contained invalid data.",
+			"long_description": "The HTTP request contained invalid data.",
+			"short_solution": "Try again later or try a different input.",
+			"long_solution": "Make sure your console files are not tampered with. You can check that by opening the friend list. If you get 002-0101, your SecureInfo_A has been tampered, if it's 002-0150 instead, it's your LocalFriendCodeSeed_B.\nIf your friend list works just fine, try changing your console language (Spanish should work) and attempt to create your PNID again. If it still fails, make one from the website and link it from your 3DS.\nIf the issue persists, try again later or ask in Pretendo Discord or Pretendo Forum.\nNote: if you are attempting to unban your console from Pretendo Network, it will not work.",
 			"support_link": "https://preten.do/022-2402"
 		}
 	}

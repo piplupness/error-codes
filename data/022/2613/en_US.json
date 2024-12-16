@@ -3,10 +3,10 @@
 		"2613": {
 			"name": "WRONG_ACCOUNT_PASSWORD_OR_MAIL_ADDRESS",
 			"message": "The information entered is not correct.\nYou may have entered a Club Nintendo\naccount ID or the ID of another service.\n\nPlease enter the details again, making\nsure that the Nintendo Network ID,\npassword, and e-mail address are\ncorrect",
-			"short_description": "Invalid account information provided. Either your username, password, or email address does not match",
-			"long_description": "Unknown cause.",
-			"short_solution": "Enter corrected information and try again",
-			"long_solution": "Unknown solution.",
+			"short_description": "Invalid account information provided. Either your username, password, or email address does not match.",
+			"long_description": "Invalid account information provided. Either your username, password, or email address does not match or you are loaded on Nintendo Network somehow.",
+			"short_solution": "Enter corrected information and try again. If it persists, check the fix in error code 022-5432.",
+			"long_solution": "Check your credentials are correct. If they are, follow this fix:\n\n1. Open Nimbus, select Nintendo Network.\n2. Open the Nintendo eShop (regardless if your NNID is set up or not).\n3. Once the eShop is loaded, close it.\n4. Open Nimbus again, and select Pretendo Network again.\n5. Go to System Settings, select Nintendo Network ID\n6. If you don't see your NNID, link your PNID, otherwise repeat from step 1 again. Make sure your PNID is not the same as your NNID.\n7. If you are not getting this error code anymore, it's fixed, otherwise, repeat the fix!",
 			"support_link": "https://preten.do/022-2613"
 		}
 	}

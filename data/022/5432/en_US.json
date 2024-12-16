@@ -6,7 +6,7 @@
             "short_description": "Pretendo patches error.",
 			"long_description": "Pretendo patches error.",
 			"short_solution": "Switch to Nintendo Network, open the eShop and come back to Pretendo Network, link your PNID again and try again.",
-			"long_solution": "You can fix this by following these steps:\n\n1. Open Nimbus, select Nintendo Network.\n2. Open the Nintendo eShop (regardless if your NNID is set up or not).\n3. Once the eShop is loaded, close it.\n4. Open Nimbus again, and select Pretendo Network again.\n5. Go to System Settings, select Nintendo Network ID\n6. If you don't see your NNID, link your PNID, otherwise repeat from step 1 again. Make sure your PNID is not the same as your NNID.\n7. If you are not getting this error code anymore, it's fixed!",
+			"long_solution": "You can fix this by following these steps:\n\n1. Open Nimbus, select Nintendo Network.\n2. Open the Nintendo eShop (regardless if your NNID is set up or not).\n3. Once the eShop is loaded, close it.\n4. Open Nimbus again, and select Pretendo Network again.\n5. Go to System Settings, select Nintendo Network ID\n6. If you don't see your NNID, link your PNID, otherwise repeat from step 1 again. Make sure your PNID is not the same as your NNID.\n7. If you are not getting this error code anymore, it's fixed, otherwise, repeat the fix!",
 			"support_link": "https://preten.do/022-5432"
 		}
 	}

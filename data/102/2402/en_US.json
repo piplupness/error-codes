@@ -5,8 +5,8 @@
 			"message": "",
 			"short_description": "The HTTP request contained invalid data",
 			"long_description": "Unknown cause.",
-			"short_solution": "Try again later or try a different input",
-			"long_solution": "Unknown solution.",
+			"short_solution": "Try again later or try a different input.",
+			"long_solution": "Make sure you are connected to Pretendo Network. Make sure your console files are not tampered. If the issue persists, try again later or ask in Pretendo Discord or Pretendo Forum.\nNote: if you are attempting to unban your console from Pretendo Network, it will not work.",
 			"support_link": "https://preten.do/102-2402"
 		}
 	}
