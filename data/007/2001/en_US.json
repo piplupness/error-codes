@@ -1,13 +1,13 @@
 {
-	"005": {
-		"5958": {
+	"007": {
+		"2001": {
 			"name": "Unknown",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Your console is region changed. Join the Nintendo Homebrew Discord and request a SOAP transfer.",
 			"long_solution": "Your 3DS appears to be region changed. In order to restore eShop and NNID functionalities (such as Pokémon Bank) on Nintendo Network, join the Nintendo Homebrew Discord server and request a SOAP transfer mentioning this error code.",
-			"support_link": "https://preten.do/005-5958"
+			"support_link": "https://preten.do/007-2001"
 		}
 	}
 }
